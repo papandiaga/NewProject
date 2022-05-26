@@ -7,9 +7,7 @@ export default function HeroArea() {
           <div className="col-lg-12 text-center zindex-1">
             <h1 className="mb-3">Project by PAPA and Horlyn</h1>
             <p className="mb-4">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum<br></br>
-              dolore eu fugiat nulla pariatur.
+              <br></br>
             </p>
             <a href="#" className="btn btn-secondary btn-lg">
               explore us

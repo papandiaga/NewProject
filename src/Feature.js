@@ -7,9 +7,7 @@ export default function Feature() {
           <div className="col-lg-12 text-center">
             <h2 className="section-title">Awesome Features</h2>
             <p className="mb-100">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatur.<br></br>Excepteur sint
-              occaecat cupidatat non proident
+              <br></br>
             </p>
           </div>
           {/* feature item */}
@@ -20,9 +18,7 @@ export default function Feature() {
               </div>
               <div>
                 <h4>Awesome Design</h4>
-                <p>
-                  Consectetur adipiscing elit donec tempus pellentesque dui.
-                </p>
+                <p></p>
               </div>
             </div>
           </div>
@@ -34,9 +30,7 @@ export default function Feature() {
               </div>
               <div>
                 <h4>Easy Customize</h4>
-                <p>
-                  Consectetur adipiscing elit donec tempus pellentesque dui.
-                </p>
+                <p></p>
               </div>
             </div>
           </div>
@@ -48,9 +42,7 @@ export default function Feature() {
               </div>
               <div>
                 <h4>Bug free Code</h4>
-                <p>
-                  Consectetur adipiscing elit donec tempus pellentesque dui.
-                </p>
+                <p></p>
               </div>
             </div>
           </div>
@@ -62,9 +54,7 @@ export default function Feature() {
               </div>
               <div>
                 <h4>Organized Layouts</h4>
-                <p>
-                  Consectetur adipiscing elit donec tempus pellentesque dui.
-                </p>
+                <p></p>
               </div>
             </div>
           </div>

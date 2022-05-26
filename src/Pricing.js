@@ -7,9 +7,7 @@ export default function Pricing() {
           <div className="col-lg-12 text-center">
             <h2 className="section-title">Our Pricing</h2>
             <p className="mb-50">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu <br></br>
-              fugiat nulla pariatur. Excepteur sint occaecat{" "}
+              <br></br>{" "}
             </p>
           </div>
           <div className="col-lg-10 mx-auto">
@@ -21,10 +19,7 @@ export default function Pricing() {
                   <h1>
                     <span>$</span>00
                   </h1>
-                  <p>
-                    Far far away, behind the wordmountains, far from the
-                    countries Vokalia and
-                  </p>
+                  <p></p>
                   <a href="#" className="btn pricing-btn px-2">
                     Get Started
                   </a>
@@ -37,10 +32,7 @@ export default function Pricing() {
                   <h1>
                     <span>$</span>75
                   </h1>
-                  <p>
-                    Far far away, behind the wordmountains, far from the
-                    countries Vokalia and
-                  </p>
+                  <p></p>
                   <a href="#" className="btn pricing-btn px-2">
                     Buy Now
                   </a>
@@ -53,10 +45,7 @@ export default function Pricing() {
                   <h1>
                     <span>$</span>99
                   </h1>
-                  <p>
-                    Far far away, behind the wordmountains, far from the
-                    countries Vokalia and
-                  </p>
+                  <p></p>
                   <a href="#" className="btn pricing-btn px-2">
                     Buy Now
                   </a>

@@ -18,10 +18,7 @@ export default function Market() {
               A Complete Range Of SEO Marketing Services!
             </h2>
             <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia.<br></br>
-              There live the blind texts. Separated they live in Bookmarksgrove
-              right at the coast of the Semantics, a large language ocean.
+              <br></br>
             </p>
           </div>
         </div>

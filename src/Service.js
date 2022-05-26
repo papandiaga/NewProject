@@ -8,12 +8,7 @@ export default function Service() {
             <h2 className="section-title">
               Powerful Layout From Top To Bottom
             </h2>
-            <p className="mb-4">
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia, there live the blind texts. Separated
-              they live in Bookmarksgrove right at the coast of the Semantics, a
-              large language ocean.
-            </p>
+            <p className="mb-4"></p>
             <ul className="pl-0 service-list">
               <li>
                 <i className="fas fa-star-of-life"></i>Responsive on any device
