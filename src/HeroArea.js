@@ -9,15 +9,8 @@ export default function HeroArea() {
             <p className="mb-4">
               <br></br>
             </p>
-            <a href="#" className="btn btn-secondary btn-lg">
-              explore us
-            </a>
+
             {/* banner image  */}
-            <img
-              className="img-fluid w-100 banner-image"
-              src="images/hero-area/banner-img.png"
-              alt="banner-img"
-            ></img>
           </div>
         </div>
       </div>
@@ -51,21 +44,6 @@ export default function HeroArea() {
         <img
           className="img-fluid hero-bg-6 up-down-animation"
           src="images/background-shape/seo-ball-1.png"
-          alt=""
-        ></img>
-        <img
-          className="img-fluid hero-bg-7 left-right-animation"
-          src="images/background-shape/yellow-triangle.png"
-          alt=""
-        ></img>
-        <img
-          className="img-fluid hero-bg-8 up-down-animation"
-          src="images/background-shape/service-half-cycle.png"
-          alt=""
-        ></img>
-        <img
-          className="img-fluid hero-bg-9 up-down-animation"
-          src="images/background-shape/team-bg-triangle.png"
           alt=""
         ></img>
       </div>

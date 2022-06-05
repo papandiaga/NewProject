@@ -14,10 +14,10 @@ export default function Feature() {
           <div className="col-md-6 mb-80">
             <div className="d-flex feature-item">
               <div>
-                <i className="fas fa-balance-scale feature-icon mr-4"></i>
+                <i className="fas fa-variety feature-icon mr-4"></i>
               </div>
               <div>
-                <h4>Awesome Design</h4>
+                <h4>Different Types</h4>
                 <p></p>
               </div>
             </div>
@@ -29,31 +29,19 @@ export default function Feature() {
                 <i className="fas fa-barcode feature-icon mr-4"></i>
               </div>
               <div>
-                <h4>Easy Customize</h4>
+                <h4>Easy To Learn</h4>
                 <p></p>
               </div>
             </div>
           </div>
           {/* <!-- feature item */}
-          <div className="col-md-6 mb-80">
-            <div className="d-flex feature-item">
-              <div>
-                <i className="fas fa-code feature-icon mr-4"></i>
-              </div>
-              <div>
-                <h4>Bug free Code</h4>
-                <p></p>
-              </div>
-            </div>
-          </div>
+
           {/* feature item */}
           <div className="col-md-6 mb-80">
             <div className="d-flex feature-item">
+              <div></div>
               <div>
-                <i className="far fa-file feature-icon mr-4"></i>
-              </div>
-              <div>
-                <h4>Organized Layouts</h4>
+                <h4></h4>
                 <p></p>
               </div>
             </div>
