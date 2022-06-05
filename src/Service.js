@@ -6,28 +6,25 @@ export default function Service() {
         <div className="row justify-content-between">
           <div className="col-md-5 order-2 order-md-1">
             <h2 className="section-title">
-              Powerful Layout From Top To Bottom
+              Experience the best way to get around Manhattan, Brooklyn, Bronx,
+              Queens, Staten Island
             </h2>
             <p className="mb-4"></p>
             <ul className="pl-0 service-list">
               <li>
-                <i className="fas fa-star-of-life"></i>Responsive on any device
+                <i className="fas fa-star-of-life"></i>Healthier and more
+                environmentally friendly than driving.
               </li>
               <li>
-                <i className="far fa-shield-alt"></i>Very easy to customize
+                <i className="far fa-shield-alt"></i>Faster than walking
               </li>
               <li>
-                <i className="far fa-file"></i>Effective support
+                <i className="far fa-file"></i>It will save you a lot on
+                MetroCards
               </li>
             </ul>
           </div>
-          <div className="col-md-7 order-1 order-md-2">
-            <img
-              className="img-fluid layer-3"
-              src="images/service/service.png"
-              alt="service"
-            ></img>
-          </div>
+          <div className="col-md-7 order-1 order-md-2"></div>
         </div>
       </div>
       {/* background image */}

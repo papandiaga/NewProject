@@ -5,32 +5,19 @@ export default function Pricing() {
       <div className="container">
         <div className="row">
           <div className="col-lg-12 text-center">
-            <h2 className="section-title">Our Pricing</h2>
+            <h2 className="section-title">Citi Bike Pricing</h2>
             <p className="mb-50">
               <br></br>{" "}
             </p>
           </div>
           <div className="col-lg-10 mx-auto">
             <div className="row justify-content-center">
-              {/* pricing table */}
-              <div className="col-md-6 col-lg-4 mb-5 mb-lg-0">
-                <div className="rounded text-center pricing-table table-1">
-                  <h3>Free</h3>
-                  <h1>
-                    <span>$</span>00
-                  </h1>
-                  <p></p>
-                  <a href="#" className="btn pricing-btn px-2">
-                    Get Started
-                  </a>
-                </div>
-              </div>
               {/* pricing table  */}
               <div className="col-md-6 col-lg-4 mb-5 mb-lg-0">
                 <div className="rounded text-center pricing-table table-2">
-                  <h3>Standard</h3>
+                  <h3>Standard Per ride</h3>
                   <h1>
-                    <span>$</span>75
+                    <span>$</span>3.99
                   </h1>
                   <p></p>
                   <a href="#" className="btn pricing-btn px-2">
@@ -41,9 +28,9 @@ export default function Pricing() {
               {/* pricing table  */}
               <div className="col-md-6 col-lg-4 mb-5 mb-lg-0">
                 <div className="rounded text-center pricing-table table-3">
-                  <h3>Premium</h3>
+                  <h3>Premium Per Month</h3>
                   <h1>
-                    <span>$</span>99
+                    <span>$</span>15
                   </h1>
                   <p></p>
                   <a href="#" className="btn pricing-btn px-2">

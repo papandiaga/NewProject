@@ -8,7 +8,10 @@ export default function Navbar() {
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-light">
           <a className="navbar-brand" href="index.html">
-            <img src="" alt="Citi bike data"></img>
+            <img
+              src="https://i.pinimg.com/474x/ea/ea/1e/eaea1ec8c678d68ca8e3f58f9d3f4cd.jpg"
+              alt="Bikes"
+            ></img>
           </a>
           <button
             className="navbar-toggler border-0"
@@ -31,28 +34,28 @@ export default function Navbar() {
               </li>
               <li className="nav-item">
                 <a className="nav-link page-scroll" href="#feature">
-                  Feature
+                  Manhattan
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="about.html">
-                  About
+                  Brooklyn
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="service.html">
-                  Service
+                  Bronx
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link page-scroll" href="#team">
-                  Team
+                  Queens
                 </a>
               </li>
 
               <li className="nav-item">
                 <a className="nav-link page-scroll" href="#pricing">
-                  Cards
+                  Staten Island
                 </a>
               </li>
               <li className="nav-item">
